@@ -21,4 +21,4 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
 
 </div>
 
-<a href="https://www.linkedin.com/in/yuri-oliveira-0703801a2/" target><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/yuri-oliveira-0703801a2/" target="_blanck"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
