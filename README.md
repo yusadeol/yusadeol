@@ -6,7 +6,6 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
 - 🌱 Atualmente estou aprendendo a consumir API com a linguagem PHP.
 - 🤔 Estou procurando ajuda para melhorar meus estudos e também para saber se estou caminhando bem.
 - 💬 Pergunte-me sobre programação.
-- 📫 Como entrar em contato comigo: Meu e-mail é "yuri_oli@hotmail.com".
 
 ### Ferramentas e Tecnologias
 
@@ -21,3 +20,5 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 </div>
+
+<a href="https://www.linkedin.com/in/yuri-oliveira-0703801a2/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
