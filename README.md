@@ -23,10 +23,10 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
 
 <br/><br/>
 
-Atualmente estou somente estudando, então, estou procurando uma oportunidade para me inserir no mercado de trabalho na área de TI;
+:orange_book: Atualmente estou somente estudando, então, estou procurando uma oportunidade para me inserir no mercado de trabalho na área de TI;
 
-Fora da área de programação tenho como minha paixão a arte, mais especificamente o circo.
-Dou aulas voluntárias em um projeto social aqui na minha cidade.
+:black_joker: Fora da área de programação tenho como minha paixão a arte, mais especificamente o circo.
+Dou aulas voluntárias de circo em um projeto social aqui na minha cidade.
 
-Você pode entrar em contato comigo pelo <a href="https://www.instagram.com/yuri.sa.ol/">instagram</a>, <a href="https://www.facebook.com/profile.php?id=100052262689312">facebook</a> ou <a href="https://www.linkedin.com/in/yuri-oliveira-0703801a2/" target="_blank">linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
+:iphone: Você pode entrar em contato comigo pelo <a href="https://www.instagram.com/yuri.sa.ol/">instagram</a>, <a href="https://www.facebook.com/profile.php?id=100052262689312">facebook</a> ou <a href="https://www.linkedin.com/in/yuri-oliveira-0703801a2/" target="_blank">linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
