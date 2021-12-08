@@ -5,7 +5,7 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
 - 🔭 Atualmente estou concluindo o curso de análise e desenvolvimento de sistemas.
 - 🌱 Atualmente estou aprendendo a consumir API com a linguagem PHP.
 - 🤔 Estou procurando ajuda para melhorar meus estudos e também para saber se estou caminhando bem.
-- 💬 Pergunte-me sobre programção.
+- 💬 Pergunte-me sobre programação.
 - 📫 Como entrar em contato comigo: Meu e-mail é "yuri_oli@hotmail.com".
 
 ### Ferramentas e Tecnologias
