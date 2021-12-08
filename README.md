@@ -9,6 +9,8 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
 
 ### Ferramentas e Tecnologias
 
+<br/>
+
 <div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
