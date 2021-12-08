@@ -21,7 +21,7 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
 
 </div>
 
-<br/>
+<br/><br/>
 
 Atualmente estou somente estudando, então, estou procurando uma oportunidade para me inserir no mercado de trabalho na área de TI;
 
