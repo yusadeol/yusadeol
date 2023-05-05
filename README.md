@@ -18,12 +18,13 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="40" />
 
 </div>
 
 <br/><br/>
 
-:orange_book: Atualmente estou trabalhando na empresa RGB Comunicação. Tenho o melhor trabalho do mundo na melhor empresa !;
+:orange_book: Atualmente estou trabalhando na empresa RGB Comunicação. Tenho o melhor trabalho do mundo na melhor empresa !
 
 :black_joker: Fora da área de programação tenho como minha paixão a arte, mais especificamente o circo.
 Já dei aulas voluntárias de circo em um projeto social aqui na minha cidade, mas atualmente não estou mais envolvido nesse projeto.
