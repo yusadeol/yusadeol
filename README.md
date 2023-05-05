@@ -2,7 +2,7 @@
 
 Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única profissão que me faz ter prazer em estudar! Sou iniciante no universo da programação e tenho como principal linguagem de programação a PHP, mas sei um pouco sobre JS.
 
-- 🔭 Atualmente estou concluindo o curso de análise e desenvolvimento de sistemas.
+- 🔭 Sou formado em análise e desenvolvimento de sistemas.
 - 🌱 Atualmente estou aprendendo a consumir API com a linguagem PHP.
 - 🤔 Estou procurando ajuda para melhorar meus estudos e também para saber se estou caminhando bem.
 - 💬 Pergunte-me sobre programação.
