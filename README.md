@@ -1,10 +1,10 @@
 ## Olá, me chamo Yuri Oliveira 👋
 
-Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única profissão que me faz ter prazer em estudar! Sou iniciante no universo da programação e tenho como principal linguagem de programação a PHP, mas sei um pouco sobre JS.
+Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única profissão que me faz ter prazer em estudar! Sou iniciante no universo da programação e tenho como principal linguagem de programação a PHP, mas também utilizo JS.
 
 - 🔭 Sou formado em análise e desenvolvimento de sistemas.
-- 🌱 Atualmente estou aprendendo a consumir API com a linguagem PHP.
-- 🤔 Estou procurando ajuda para melhorar meus estudos e também para saber se estou caminhando bem.
+- 🌱 Atualmente estou aprendendo sobre rede de computadores.
+- 🤔 Estou cada vez mais aprendendo sobre programação e os conteúdos que rodeiam essa área.
 - 💬 Pergunte-me sobre programação.
 
 ### Ferramentas e Tecnologias
@@ -23,10 +23,10 @@ Tenho 24 anos, moro em Porto seguro BA e encontrei na programação a única pro
 
 <br/><br/>
 
-:orange_book: Atualmente estou somente estudando, então, estou procurando uma oportunidade para me inserir no mercado de trabalho na área de TI;
+:orange_book: Atualmente estou trabalhando na empresa RGB Comunicação. Tenho o melhor trabalho do mundo na melhor empresa !;
 
 :black_joker: Fora da área de programação tenho como minha paixão a arte, mais especificamente o circo.
-Dou aulas voluntárias de circo em um projeto social aqui na minha cidade.
+Já dei aulas voluntárias de circo em um projeto social aqui na minha cidade, mas atualmente não estou mais envolvido nesse projeto.
 
 :iphone: Você pode entrar em contato comigo pelo <a href="https://www.instagram.com/yuri.sa.ol/">instagram</a>, <a href="https://www.facebook.com/profile.php?id=100052262689312">facebook</a> ou <a href="https://www.linkedin.com/in/yuri-oliveira-0703801a2/" target="_blank">linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
