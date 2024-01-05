@@ -11,7 +11,7 @@ Tenho 26 anos, moro em Porto seguro BA e encontrei na programação a única pro
 
 <div>
 
-  [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mysql,git,github,bitbucket,docker,linux)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mysql,git,github,docker,linux)](https://skillicons.dev)
 
 </div>
 
