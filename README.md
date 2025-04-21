@@ -10,7 +10,7 @@ Tenho 27 anos, moro em Porto seguro BA e encontrei na programação a única pro
 
 <div>
 
-  [![My Skills](https://skillicons.dev/icons?i=php,laravel,go,js,vue,react,html,css,sass,mysql,git,github,docker,linux,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,laravel,go,js,vue,react,mysql,git,github,docker,linux,figma)](https://skillicons.dev)
 
 </div>
 
