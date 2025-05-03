@@ -1,6 +1,6 @@
 ## Olá, me chamo Yuri Oliveira 👋
 
-Nascido em 1997, moro em Porto seguro BA e encontrei na programação a única profissão que me faz ter prazer em estudar! Amo o universo da programação e tenho como principal linguagem de programação a PHP, mas também utilizo JS.
+Tenho 28 anos, moro em Porto seguro BA e encontrei na programação a única profissão que me faz ter prazer em estudar! Amo o universo da programação e tenho como principal linguagem de programação a PHP, mas também utilizo JS.
 
 - 🔭 Sou formado em análise e desenvolvimento de sistemas.
 - 🤔 Estou cada vez mais aprendendo sobre programação e os conteúdos que rodeiam essa área.
