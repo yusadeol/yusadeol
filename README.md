@@ -4,7 +4,8 @@ Tenho 28 anos, moro em Porto seguro BA e encontrei na programação a única pro
 
 - 🔭 Sou formado em análise e desenvolvimento de sistemas.
 - 🤔 Estou cada vez mais aprendendo sobre programação e os conteúdos que rodeiam essa área.
-- 💬 Pergunte-me sobre programação.
+- 🧠 Tenho interesse em arquitetura de software, performance e boas práticas.
+- 📈 Busco evoluir constantemente em engenharia de software, não só em código.
 
 ### Ferramentas e Tecnologias
 
