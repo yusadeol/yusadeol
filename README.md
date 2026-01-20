@@ -1,6 +1,6 @@
 ## Olá, me chamo Yuri Oliveira 👋
 
-Tenho 28 anos, moro em Porto Seguro e encontrei na programação a única profissão que me faz ter prazer em estudar! Amo o universo da programação e tenho como principal linguagem de programação a PHP, mas também utilizo JS.
+Tenho 28 anos, moro em Porto Seguro e a programação é aquilo que mais gosto de fazer. Atualmente atuo como desenvolvedor full stack, resolvendo problemas no dia a dia através de código e aprimorando constantemente minhas habilidades na prática.
 
 - 🔭 Sou formado em análise e desenvolvimento de sistemas.
 - 🤔 Estou cada vez mais aprendendo sobre programação e os conteúdos que rodeiam essa área.
@@ -17,7 +17,7 @@ Tenho 28 anos, moro em Porto Seguro e encontrei na programação a única profis
 
 <br/>
 
-:orange_book: Atualmente estou trabalhando na empresa RGB Comunicação.
+:orange_book: Atualmente presto serviços para a empresa RGB Comunicação.
 
 :black_joker: Fora da área de programação tenho como minha paixão a arte, mais especificamente o circo.
 Já dei aulas voluntárias de circo em um projeto social aqui na minha cidade, mas atualmente não estou mais envolvido nesse projeto.
