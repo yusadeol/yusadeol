@@ -19,8 +19,8 @@ Tenho 28 anos, moro em Porto Seguro e a programação é aquilo que mais gosto d
 
 :orange_book: Atualmente presto serviços para a empresa RGB Comunicação.
 
-:black_joker: Fora da área de programação tenho como minha paixão a arte, mais especificamente o circo.
-Já dei aulas voluntárias de circo em um projeto social aqui na minha cidade, mas atualmente não estou mais envolvido nesse projeto.
+:black_joker: Fora da área de programação tenho como paixão a arte, mais especificamente o circo.
+Foram anos de treino e apresentações e, mais pra frente, acabei também dando aulas de forma voluntária em um projeto social da minha cidade.
 
 :iphone: Você pode entrar em contato comigo pelo <a href="https://www.linkedin.com/in/yusadeol" target="_blank">linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios.
 
